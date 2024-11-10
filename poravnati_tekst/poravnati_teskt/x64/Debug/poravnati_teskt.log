@@ -1,0 +1,4 @@
+﻿  poravnati_tekst.c
+C:\Users\laura\OneDrive\Desktop\DUMP BILJESKE\poravnati_teskt\poravnati_teskt\poravnati_tekst.c(54,18): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\laura\OneDrive\Desktop\DUMP BILJESKE\poravnati_teskt\poravnati_teskt\poravnati_tekst.c(67,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  poravnati_teskt.vcxproj -> C:\Users\laura\OneDrive\Desktop\DUMP BILJESKE\poravnati_teskt\x64\Debug\poravnati_teskt.exe
